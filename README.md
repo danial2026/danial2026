@@ -1,4 +1,8 @@
 <a href="https://app.daily.dev/sadcat"><img src="https://api.daily.dev/devcards/0e2354a044d44cf78ea3f3bc1d831aab.png?r=d9v" width="200" alt="danial's Dev Card"/></a>
+
+I’m looking to collaborate on opensource projects
+1998alirezam@gmail.com
+
 <!--
 **danial2026/danial2026** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
