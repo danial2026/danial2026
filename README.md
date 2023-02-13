@@ -3,12 +3,9 @@
 Hi, I'm Danial,
 
 Passionate developer,
-
-I’m looking to collaborate on opensource projects,
+I’m looking forward to collaborate on opensource projects.
 
 <!-- Java, Python, Golang, React, Neo4j, MongoDB, -->
-
-You can reach me by sending an email to 1998alirezam@gmail.com,
 
 <!--
 **danial2026/danial2026** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
